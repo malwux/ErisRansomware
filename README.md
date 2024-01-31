@@ -1,2 +1,2 @@
 # ErisRansomware
-Dangerous ransomware with MBR.
+Powerful ransomware with MBR.
